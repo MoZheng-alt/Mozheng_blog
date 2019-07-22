@@ -79,8 +79,8 @@ theme: yilia
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/MoZheng-alt/MoZheng-alt.github.io.git
-  branch: master
+  repo: https://github.com/MoZheng-alt/MoZheng_blog.git
+  branch: run-page
 jsonContent:
     meta: false
     pages: false
